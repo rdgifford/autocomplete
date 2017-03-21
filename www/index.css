@@ -23,6 +23,7 @@
 } 
 .invisible {
 	opacity: 0;
+    padding-left: 2;
 }
 .visible {
 	opacity: .5;
