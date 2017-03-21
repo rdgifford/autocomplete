@@ -1,10 +1,6 @@
-My Project
+Autocomplete
 ---
- 
-Welcome.
- 
- 
- 
+
 Usage
 ---
  
